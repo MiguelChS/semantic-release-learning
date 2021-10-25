@@ -8,8 +8,10 @@ jobs:
     name: Release
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@master
-      - uses: actions/setup-node@v1
+      - name: Checkout source code
+        uses: actions/checkout@v2
+      - name: Use NodeJS v12.16
+        uses: actions/setup-node@v1
         with:
           node-version: "14"
       - name: Install dependencies
