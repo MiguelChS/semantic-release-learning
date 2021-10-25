@@ -1,3 +1,10 @@
+# [1.5.0](https://github.com/MiguelChS/semantic-release-learning/compare/v1.4.0...v1.5.0) (2021-10-25)
+
+
+### Features
+
+* **commintlint:** add scope all commit ([5ba3376](https://github.com/MiguelChS/semantic-release-learning/commit/5ba3376b79f77646b99e34416c8ceec0aed4eba6))
+
 # [1.4.0](https://github.com/MiguelChS/semantic-release-learning/compare/v1.3.0...v1.4.0) (2021-10-25)
 
 
