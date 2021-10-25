@@ -2,4 +2,4 @@ const saluda = {
   name: "name"
 }
 
-console.log(saluda);
+module.exports = { saluda }
