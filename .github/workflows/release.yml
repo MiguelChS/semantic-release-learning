@@ -1,8 +1,5 @@
 name: Release version
-on:
-  push:
-    branches:
-      - master
+on: ['push']
 jobs:
   release:
     name: Release
